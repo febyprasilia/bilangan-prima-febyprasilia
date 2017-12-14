@@ -1,4 +1,4 @@
-print("tugas alpro")
+print("tugas alpro 04217060")
 x=int(input("masukkan angka awal: "))
 y=int(input("masukkan batas: "))
 
