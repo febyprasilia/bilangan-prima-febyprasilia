@@ -3,7 +3,7 @@ y=int(input("masukkan batas: "))
 
 def bil1(x):
     for a in range (b%c)==1:
-	    if range (a%x):
+	    if (a%x):
 	        a=True
 	    else:
 	 	    a=False
