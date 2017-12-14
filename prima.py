@@ -7,7 +7,7 @@ def bil1(x):
 	    if (a%x)==1:
 	        a=True
 	    else:
-	 	    a=False
+	        a=False
 	    print(a)
 for i in range(x,y+1):
     prima=True
